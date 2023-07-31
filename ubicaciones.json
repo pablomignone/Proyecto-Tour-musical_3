@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "nombre": "El Teatrino",
+        "direccion": "Aniceto Latorre y Alvear",
+        "coordenadas": [
+            -24.7909,
+            -65.4117
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Teatro Provincial de Salta",
+        "direccion": "Zuvir\u00eda 70",
+        "coordenadas": [
+            -24.7888,
+            -65.4105
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "La Troja",
+        "direccion": "Paraje La Troja, Salta",
+        "coordenadas": [
+            -24.7859,
+            -65.41166
+        ]
+    }
+]

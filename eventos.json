@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "nombre": "Alan Sutton y las criaturitas de la ansiedad",
+        "artista": "Alan Sutton y las criaturitas de la ansiedad",
+        "genero": "Rock alternativo",
+        "id_ubicacion": 1,
+        "hora_inicio": "21:00",
+        "hora_fin": "23:00",
+        "descripcion": "Una noche de rock alternativo con la banda liderada por Alan Sutton, que presenta su nuevo disco 'La vida es un sue\u00f1o'.",
+        "imagen": "alan_sutton.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "El Cuarteto de Nos",
+        "artista": "El Cuarteto de Nos",
+        "genero": "Rock",
+        "id_ubicacion": 2,
+        "hora_inicio": "20:00",
+        "hora_fin": "22:00",
+        "descripcion": "Disfruta del humor y la m\u00fasica de la banda uruguaya El Cuarteto de Nos, que llega a Salta con su gira 'Jueves'.",
+        "imagen": "el_cuarteto_de_nos.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Homer El Mero Mero",
+        "artista": "Homer El Mero Mero",
+        "genero": "Hip hop",
+        "id_ubicacion": 2,
+        "hora_inicio": "19:00",
+        "hora_fin": "21:00",
+        "descripcion": "No te pierdas el show de Homer El Mero Mero, el rapero argentino que est\u00e1 revolucionando la escena del hip hop con su flow y sus letras.",
+        "imagen": "homer_el_mero_mero.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "14\u00ba Festival La Troja Canta",
+        "artista": "Varios",
+        "genero": "Folclore",
+        "id_ubicacion": 3,
+        "hora_inicio": "18:00",
+        "hora_fin": "02:00",
+        "descripcion": "Un festival para celebrar la m\u00fasica y la cultura folcl\u00f3rica de Salta, con la participaci\u00f3n de artistas locales e invitados especiales.",
+        "imagen": "la_troja_canta.jpg"
+    }
+]
